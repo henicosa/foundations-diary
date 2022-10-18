@@ -1,20 +1,13 @@
-## Introduction
-Ludwig Lorenz (any / all)
-- undergraduate computer scientist from Germany (Bauhaus university)
-- Complexity theory, Visualisation, Natural Language Processing
-- Open Source advocat, digital activist, specialized in digital transformation of universities
-- Project: https://uni-weimar.de/bisonwatch/en
-- Github: https://github.com/henicosa
+Instructor: Don Sinclair
+A great deal of credit for the materials in this course goes to Graham Wakefield.
 
-- Jacob
-	- digital theatre in New York
-- Alexandro
-	- shader, RA Earth and Space Engineering department, on a thesis
-- Xiao
-	- https://he-jimmy.format.com/
-- Cindy
-	- https://cindy-vu.wixsite.com/my-portfolio/home
-	- Game: https://cvu232.itch.io/quack
+**Synopsis: The purpose of Foundations is to equip and assist Masters students to undertake graduate-level research in Digital Media.**
+
+>  This means:
+>  - being aware of the broad range of the field along with its nearer and farther histories, narrow and broader presents, and implicated or possible futures,  
+>  - being able to find, read, and understand the languages through which research is articulated, in both theoretical and practical terms,    
+>  - being able to create work across of a broad range of digital media that is effective and/or innovative.  
+> 	 **(Reading, writing, making!)**
 
 Section | Content
 --- | ---

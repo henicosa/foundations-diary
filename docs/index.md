@@ -1,13 +1,18 @@
-# Obsidian Notes
+# Ludwig's Public Zettelkasten
 
-Publish your public notes with MkDocs
+![[Zettelkasten Method]]
 
-## Hello World!
+## 2022
+### York University
+- 01: [[Foundations of Digital Media]]
+	- This course forced me to finally publish my knowledge base.
+- 02: [[Interactive Sonic Arts]]
+	- My roommates had so much fun because of this course.
+- 03: [[Game History]]
+	- Nintendo and stuff like that.
+- 04: [Minds, Brains and Machines](MBaM)
+	- The most important thing I learned is that I can't spell Mashine in English.
+- 05: [Privacy in sociotechnical Systems](Privacy)
+	- This is the reason that I traveled to New York.
 
-- First Link: [[Foundations of Digital Media]]
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+==Warning: Some Links are not published yet.==
