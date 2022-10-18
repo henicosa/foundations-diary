@@ -21,16 +21,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-    
-    font:
-      text: Vollkorn
-    extra:
-      generator: false
-      social:
-        - icon: fontawesome/brands/mastodon 
-          link: https://social.bau-ha.us/@viji5369
-        - icon: fontawesome/brands/github 
-          link: https://github.com/henicosa
+
 
 # Extensions
 markdown_extensions:
