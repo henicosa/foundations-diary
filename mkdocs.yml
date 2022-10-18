@@ -2,6 +2,8 @@ site_name: Ludwig's Zettelkasten
 
 theme:
     name: 'material'
+    font:
+      text: Vollkorn
     palette:
 
     # Light mode
@@ -21,7 +23,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
+    
 
 # Extensions
 markdown_extensions:
