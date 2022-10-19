@@ -1,14 +1,10 @@
-# First Literature Review
-- I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of Machine Assisted Governance
-- In a [[Second Literature Review]] 
+- I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of [[Machine Assisted Governance]]
+- This is the second literature review according to the [[Second Literature Review Guidelines]]
 
 ## Cybernetics
 
-**Birnbaum: The cybernetic institution: Toward an integration of governance theories**
-Robert Birnbaum. “[The cybernetic institution: Toward an integration of governance](https://link.springer.com/article/10.1007/BF00139183) theories”. In: Higher Education 18.2 (1989),  
-pp. 239–253.  
-*Abstract: This paper presents a new conceptual approach to institutional governance, management, and leadership based upon a cybernetic model of organizations. The cybernetic paradigm integrates existing models by suggesting how bureaucratic,  
-collegial, political, and anarchical subsystems function simultaneously in colleges and ==universities== of all kinds to create ==self-correcting institutions==. The cybernetic paradigm posits that organization control systems can be described in terms of sensing mechanisms and negative feedback loops that collectively monitor changes from acceptable levels of functioning and that activate forces that return institutions to their previous stable state. These self correcting (cybernetic) processes function as institutional “thermostats”. Administrators can function effectively by adopting leadership and management approaches that are consistent with cybernetic principles. These principles suggest that administrators should complicate themselves and use multiple frames to develop richer behavioral repertoires, increase the sensitivity of institutional monitoring systems, and focus attention on important issues through systems that report data and create forums for interaction. The major function of the cybernetic administrator is to coordinate and balance the various systems within the institution to move towards optimizing the administrator’s values. This can be done by making incremental adjustments to administrative processes and procedures, by enunciating goals that establish constraints, and by emphasizing selected elements of organizational life.*
+**[[Birnbaum - The cybernetic institution - Toward an integration of governance theories]]**
+
 
 **Chohan: The decentralized autonomous organization and governance issues**
 Usman W Chohan. “[The decentralized autonomous organization and governance issues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082055)”. In: Available at SSRN 3082055 (2017).  

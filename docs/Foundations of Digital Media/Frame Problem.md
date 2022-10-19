@@ -1,0 +1,1 @@
+Originally discovered in the field of artificial intelligence, the Frame Problem describes the complexity of finding the optimal amount of thought that must be put into the consequences when deciding on an action.
