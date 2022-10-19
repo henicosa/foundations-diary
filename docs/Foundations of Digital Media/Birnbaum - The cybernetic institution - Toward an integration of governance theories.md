@@ -10,7 +10,7 @@ Birnbaum maps the concepts of cybernetic thinking to a fictional university inst
 > If any of them fall outside that range, the energies of individuals or groups at the college are activated in an attempt to return Huxley to the desired level. (p. 241)
 
 Birnbaum divides between explicit and implicit controls. Their first function is to keep operations in the university in the acceptable limits by using minor adjustments. The second function is that the minor adjustments initiate actions to inform that something goes wrong. ==Maybe connected to [[Nudging]]== (p. 242)
-(Reference to Ashby 1960)
+(Reference to [[Ashby_1960]])
 
 Possible strategies:
 - Avoid ultimate organizational objectives by defining subgoals
@@ -22,7 +22,7 @@ Possible strategies:
 ### References
 Allison, G. T. (1971). Essence of Decision: Explaining the Cuban Missile Crisis. Boston: Little, Brown and Company.
 
-==Ashby, W. R. (1960). Design for a Brain: the Origin of Adaptive Behavior, Second Edition. New York: John Wiley and Sons.==
+==[Ashby, W. R. (1960). Design for a Brain: the Origin of Adaptive Behavior, Second Edition. New York: John Wiley and Sons.](Ashby_1960)==
 
 ==Ashby, W. R. (1956). An Introduction to Cybernetics. London: Chapman and Hall.==
 

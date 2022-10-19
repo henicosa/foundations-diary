@@ -5,10 +5,22 @@
 
 **[[Birnbaum - The cybernetic institution - Toward an integration of governance theories]]**
 
+Attribute | Value
+--- | ---
+specific topic | Cybernetics and University Governance
+keywords | Cybernetics, Bounded Rationality, Nudging, Thought Experiment
+research question | How to apply cybernetic thinking to an university institution
 
-**Chohan: The decentralized autonomous organization and governance issues**
-Usman W Chohan. “[The decentralized autonomous organization and governance issues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082055)”. In: Available at SSRN 3082055 (2017).  
-*Abstract: The Decentralized Autonomous Organization (DAO) represents an innovation in the design of organizations, in its emphasis on computerized rules and contracts, but the DAO’s structures and functions also raise issues of governance. This discussion paper enumerates those issues, so as to encourage further research on DAOs and governance.*
+- Links to 
+
+**[[Chohan - The decentralized autonomous organization and governance issues]]**
+
+Attribute | Value
+--- | ---
+specific topic | Decentralized Autonomous Organisations
+keywords | DAO, Blockchain, Cryptoanarchism
+research question | What is a DAO? Where are it's origins?
+
 
 **Clement-Okooboh et al.: Applying cybernetic thinking to becoming a learning organization** 
 Kesiena Mercy Clement-Okooboh and Bill Olivier. “[Applying cybernetic thinking to becoming a learning organization](https://www.semanticscholar.org/paper/Applying-cybernetic-thinking-to-becoming-a-learning-Clement-Okooboh-Olivier/5acba1765e59eea13cb00d1ea655a2493e924fe0)”. In: Kybernetes (2014).  

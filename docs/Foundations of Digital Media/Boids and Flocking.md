@@ -16,6 +16,6 @@ Also visible in early 3D demos like [Stanley and Stella in: Breaking the Ice](ht
 - The boids algorithm was also used in Batman Returns (1992) for the bat swarms and penguins marching
 
 - Some implementations
-	- https://processing.org/examples/flocking.html
-	- https://gpolo.github.io/birdflocking/
-	- https://github.com/anuraghazra/EvolutionAquerium
+	- [Flocking / Examples / Processing.org](https://processing.org/examples/flocking.html)
+	- [System Simulation - Bird Flocking](https://gpolo.github.io/birdflocking/)
+	- [GitHub - anuraghazra/EvolutionAquerium: Small Inteli Creatures Based On Steering Behaviours](https://github.com/anuraghazra/EvolutionAquerium)

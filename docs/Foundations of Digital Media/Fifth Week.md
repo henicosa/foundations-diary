@@ -1,4 +1,4 @@
-Course Slides: https://cloud.bau-ha.us/s/GnTdS7zjTEHrPD4
+Course Slides: [M18 Cloud](https://cloud.bau-ha.us/s/GnTdS7zjTEHrPD4)
 
 1. [[Boids and Flocking]]
 2. First Literature Review Presentation
@@ -16,10 +16,11 @@ Course Slides: https://cloud.bau-ha.us/s/GnTdS7zjTEHrPD4
 
 
 ## Recommended JS Libraries
-- https://cdnjs.com/ Open source js libraries
-- gl-matrix https://cdnjs.com/libraries/gl-matrix implements glMatrix https://glmatrix.net/
+- [cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/) Open source js libraries
+- gl-matrix [gl-matrix - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/libraries/gl-matrix) implements [glMatrix](https://glmatrix.net/) 
 - use script tag to include in project
-- see documentation https://glmatrix.net/docs/ … vec2 https://glmatrix.net/docs/module-vec2.html
+- see documentation [JSDoc: Home](https://glmatrix.net/docs/)
+- vec2 [JSDoc: Module: vec2](https://glmatrix.net/docs/module-vec2.html)
 - note many other libraries
 
 # For next class
