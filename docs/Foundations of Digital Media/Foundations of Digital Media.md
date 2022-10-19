@@ -17,4 +17,4 @@ Section | Content
 [[Third Week]] | other Things
 [[Fourth Week]] | other Things
 [[Fifth Week]] | Boids and Flocking, Literature Review Presentations, Research creation Reading
-[[Seventh Week]] | Markov Functions, Computational Creativity
+[[Sixth Week]] | Markov Functions, Computational Creativity

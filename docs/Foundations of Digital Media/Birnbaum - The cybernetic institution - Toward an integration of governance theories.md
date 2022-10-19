@@ -22,7 +22,7 @@ Possible strategies:
 ### References
 Allison, G. T. (1971). Essence of Decision: Explaining the Cuban Missile Crisis. Boston: Little, Brown and Company.
 
-==[Ashby, W. R. (1960). Design for a Brain: the Origin of Adaptive Behavior, Second Edition. New York: John Wiley and Sons.](Ashby_1960)==
+==[Ashby, W. R. (1960). Design for a Brain: the Origin of Adaptive Behavior, Second Edition. New York: John Wiley and Sons.](Ashby_1960.md)==
 
 ==Ashby, W. R. (1956). An Introduction to Cybernetics. London: Chapman and Hall.==
 
