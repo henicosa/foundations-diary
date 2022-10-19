@@ -12,9 +12,12 @@ A great deal of credit for the materials in this course goes to Graham Wakefield
 
 Section | Content
 --- | ---
-[[First Week]] | a lot
-[[Second Week]] | much more
-[[Third Week]] | other Things
-[[Fourth Week]] | other Things
+[[First Week]] | Introduction, Machines and Automata
+[[Second Week]] | Create your journal, Code mutation
+[[Third Week]] | Art Presentation, Cybernetics
+[[Fourth Week]] | Definition of Research
 [[Fifth Week]] | Boids and Flocking, Literature Review Presentations, Research creation Reading
 [[Sixth Week]] | Markov Functions, Computational Creativity
+Seventh Week | Present Machines, Research questions, methodology and method
+Eight Week| Present Video Tutorial
+Ninth Week | Have Draft Available for Peer Review
