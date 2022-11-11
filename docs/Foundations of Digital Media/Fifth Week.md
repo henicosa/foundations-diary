@@ -1,3 +1,4 @@
+--> [[Foundations of Digital Media]]
 Course Slides: [M18 Cloud](https://cloud.bau-ha.us/s/GnTdS7zjTEHrPD4)
 
 1. [[Boids and Flocking]]

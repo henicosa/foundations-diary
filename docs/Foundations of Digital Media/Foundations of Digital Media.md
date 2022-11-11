@@ -18,6 +18,6 @@ Section | Content
 [[Fourth Week]] | Definition of Research
 [[Fifth Week]] | Boids and Flocking, Literature Review Presentations, Research creation Reading
 [[Sixth Week]] | Markov Functions, Computational Creativity
-Seventh Week | Present Machines, Research questions, methodology and method
+[Seventh Week](26Oct2022%20Foundations%20of%20Digital%20Media) | Present Machines, Research questions, methodology and method
 Eight Week| Present Video Tutorial
-Ninth Week | Have Draft Available for Peer Review
+Ninth Week | Have [Draft](Foundations%20Draft) Available for Peer Review

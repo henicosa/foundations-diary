@@ -24,6 +24,6 @@
 
 # Post to your journal:
 - The specific topic title or the keywords or search terms
-- The research question/problem statement/abstract
+- The [[research question]]/problem statement/abstract
 - Your annotated bibliography
 - Any meta-commentary on observations you found while researching the topic that are not specific to any one paper -- in particular, did you find a "gap" in the treatment of the topic that could be an important avenue for your own work?

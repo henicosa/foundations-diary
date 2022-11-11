@@ -9,5 +9,5 @@
 - Notice what you are noticing and notice what you are not noticing
 - how can we know what we don't know
 
-### Developing a research question
+### Developing a [[research question]]
 - something that you are passionate about. What are you curious about? Can you contribute an original idea or independent perspective?

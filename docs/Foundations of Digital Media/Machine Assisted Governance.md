@@ -1,6 +1,7 @@
 # First Literature Review
 - I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of Machine Assisted Governance
 - In a [[Second Literature Review]] 
+- and a [[Foundations Draft]]
 
 ## Cybernetics
 

@@ -1,5 +1,6 @@
 - I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of [[Machine Assisted Governance]]
 - This is the second literature review according to the [[Second Literature Review Guidelines]]
+- They both contribute to the [[Foundations Draft]]
 
 ## Cybernetics
 
@@ -9,7 +10,7 @@ Attribute | Value
 --- | ---
 specific topic | Cybernetics and University Governance
 keywords | Cybernetics, Bounded Rationality, Nudging, Thought Experiment
-research question | How to apply cybernetic thinking to an university institution
+[[research question]] | How to apply cybernetic thinking to an university institution
 
 - Links to 
 
@@ -19,7 +20,7 @@ Attribute | Value
 --- | ---
 specific topic | Decentralized Autonomous Organisations
 keywords | DAO, Blockchain, Cryptoanarchism
-research question | What is a DAO? Where are it's origins?
+[[research question]] | What is a DAO? Where are it's origins?
 
 
 **Clement-Okooboh et al.: Applying cybernetic thinking to becoming a learning organization** 
@@ -59,3 +60,6 @@ In: International Journal of Innovation Management 0.0 (0), p. 2240002. eprint: 
 URL: https://doi.org/10.1142/S1363919622400023.  
 *Abstract: This paper explores how values-based innovation (VBI) management can facilitate the development of business models and their constitutive components. It analyses the case of the green search engine, Ecosia, to demonstrate and further differentiate the theoretical framework of VBI management. According to the VBI management framework, the development of sustainable business models cannot be appropriately managed and researched without considering values and normative orientations. Ecosia’s case highlights that the continuous reconsideration and negotiation of values is integral to the management of business model innovation (BMI) and contributes to the development and specification of business model components.  
 Thus, the case confirms and contributes to a more in-depth understanding of the role values play in managing innovation and demonstrates some of the challenges encountered in the daily practice of VBI management.*
+
+Don's Advice for meaningful research
+- pick 3 interesting fact about your topic that you want the world to know about
