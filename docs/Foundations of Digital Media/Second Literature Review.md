@@ -1,4 +1,4 @@
-- I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of [[Machine Assisted Governance]]
+- I made a first [Literature Review](https://cloud.bau-ha.us/s/8C9mS3XX5Xj8Bin) to grasp the ideas of [[Project Machine Assisted Governance]]
 - This is the second literature review according to the [[Second Literature Review Guidelines]]
 - They both contribute to the [[Foundations Draft]]
 

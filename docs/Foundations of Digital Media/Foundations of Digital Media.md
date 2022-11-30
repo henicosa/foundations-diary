@@ -21,3 +21,4 @@ Section | Content
 [Seventh Week](26Oct2022%20Foundations%20of%20Digital%20Media) | Present Machines, Research questions, methodology and method
 Eight Week| Present Video Tutorial
 Ninth Week | Have [Draft](Foundations%20Draft) Available for Peer Review
+[[30Nov2022 Foundations of Digital Media]] | Presentation

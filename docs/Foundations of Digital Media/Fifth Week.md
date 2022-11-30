@@ -7,7 +7,7 @@ Course Slides: [M18 Cloud](https://cloud.bau-ha.us/s/GnTdS7zjTEHrPD4)
 	2. Karo (something with VR I guess)
 	3. Jacob (everything at once)
 	4. Alex (something practical related to his work)
-	5. Ludwig: [[Machine Assisted Governance]]
+	5. Ludwig: [[Project Machine Assisted Governance]]
 3. [[Second Literature Review Guidelines]]
 4. Research Creation Readings
 	1. Research-Creation: Intervention, Analysis and “Family Resemblances”
